@@ -4,12 +4,12 @@ sidebar_position: 1
 
 # Who are we
 
-It's a digital infrastructure for reporting issues we're going through as a community. We're building the biggest database of issues anywhere around the world with a focus on third-world countries. We all have many needs that the government or we as a society can come together and solve. CommunityWatch aims to provide a platform where we can report these issues, find the issues & act in whatever way we can to foster positive change.
+It's a digital infrastructure for reporting issues we're going through as a community. We're building the biggest database of issues anywhere around the world with a focus on third-world countries. We all have many needs that the government or we as a society can come together and solve. CommunityWatch aims to provide a platform where anyone can report these issues, find the issues & act in whatever way we can to foster positive change.
 
 
 ## Why did we build CommunityWatch
 
-The government cannot have its eyes everywhere. We, the people need to come together and aid the government and NGOs in discovering what issues we have in our communities. The government cannot spend it's time solving a non-existent issue or an issue which it's not aware of. The same way you need to identify a problem in order to come up with a fix for it. 
+The government cannot have its eyes everywhere. We, the people need to come together and aid the government and NGOs in discovering what issues we go through in our communities. The government cannot spend it's time solving a non-existent issue or an issue which it's not aware of. The same way you need to identify a problem in order to come up with a fix for it. 
 
 Governments need to take advantage of technology to come up with creative ways of solving problems. For this, we need to first have a database of issues. The government can now take advantage of techniques like data mining, machine learning, geolocation and many more to prioritize which issues need fixing. 
 

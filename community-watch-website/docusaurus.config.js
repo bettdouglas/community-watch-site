@@ -7,7 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Welcome to CommunityWatch!',
-  tagline: 'We\'re uniting Citizens, Strengthening Society, Empowering Communities for a Better Tomorrow',
+  
+  tagline: 'Uniting, Empowering & Transforming Communities by Building the Ultimate Database of Community Issues for a Brighter Future!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -87,15 +88,15 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
+          // {
+          //   title: 'Docs',
+          //   items: [
+          //     {
+          //       label: 'Tutorial',
+          //       to: '/docs/intro',
+          //     },
+          //   ],
+          // },
           {
             title: 'Community',
             items: [
@@ -127,7 +128,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} CommunityWatch, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
