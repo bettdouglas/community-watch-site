@@ -14,7 +14,7 @@ To download the CommunityWatch app from the PlayStore, follow these simple steps
 
 #### Direct Link to PlayStore
 If you're reading this page from your phone, don't wait any further. Click the link below which will take you to CommunityWatch on PlayStore then press the "Install" button.
-[CommunityWatch on PlayStore](https://play.google.com/store/apps/details?id=com.communitywatch)
+[Download from PlayStore](https://play.google.com/store/apps/details?id=com.communitywatch.app)
 
 1. Open the PlayStore on your Android device.
 2. In the search bar, type "CommunityWatch" and press Enter.
@@ -25,7 +25,7 @@ If you're reading this page from your phone, don't wait any further. Click the l
 
 Don't wait any longer – download the CommunityWatch app from the PlayStore and start making a difference today!
 
-### App Store
+<!-- ### App Store
 To download the CommunityWatch app from the App Store, follow these quick steps:
 
 1. Launch the App Store on your iOS device.
@@ -37,7 +37,7 @@ To download the CommunityWatch app from the App Store, follow these quick steps:
 
 Join the movement – download the CommunityWatch app from the App Store and start making a positive impact today!
 
-Don't miss out on the opportunity to be part of a community-driven initiative that aims to enhance the quality of life for everyone. Together, we can build stronger, more resilient communities and create a brighter future for all. Download the app now and let your voice be heard!
+Don't miss out on the opportunity to be part of a community-driven initiative that aims to enhance the quality of life for everyone. Together, we can build stronger, more resilient communities and create a brighter future for all. Download the app now and let your voice be heard! -->
 
 ## How to Download CommunityWatch data
 ### Download Issues Data

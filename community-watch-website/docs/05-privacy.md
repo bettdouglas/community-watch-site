@@ -154,7 +154,7 @@
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
 <li>
-<p>By email: bettdoug@gmail.com</p>
+<p>By email: bettdoug[@]gmail[.]com</p>
 </li>
 <li>
 <p>By phone number: +254714109322</p>
