@@ -98,7 +98,7 @@ const config = {
           //   ],
           // },
           {
-            title: 'Community',
+            title: 'CommunityWatch',
             items: [
               {
                 label: 'Stack Overflow',
