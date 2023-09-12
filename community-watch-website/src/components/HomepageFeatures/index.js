@@ -10,8 +10,10 @@ const FeatureList = [
       <>
         Community Watch is a community-driven project. We are a group of
         volunteers who are passionate about making our communities safer.
-        Join community-watch by downloading the app, reporting issues, and
-        voting on issues that affect you.
+        We have a lot of issues which need to be fixed, and we believe that
+        the best way to fix them is to have the community report them.'
+        CommunityWatch aims to be a lens through which the government
+        can see the issues affecting communities and then priorize what needs to be fixed.
       </>
     ),
   },
@@ -20,9 +22,12 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        We believe that by having a central place where people report their issues, 
-        we can have a lens through which the government can see the issues affecting
-        communities and priorize what needs to be fixed.
+        We believe that by having an open database of issues, we can
+        give power to the people. We can give them a voice. We can
+        give them a way to tell the government what issues their
+        community is facing. We can give them a way to vote on
+        issues that affect them. We can give them a way to
+        make their communities safer.
       </>
     ),
   },
@@ -31,9 +36,11 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        We believe that the community should have a say in how their leaders
-        govern their communities. That's why we vote for our leaders. But after voting, there's currently 
-        no way for them to know what issues their region is facing. We hope to change that.
+        We believe in democracy. Without tranparency on what issues are happening around you
+        it's hard to make an informed decision on who to vote for. We believe that the community
+        should have a say in what issues are affecting them. We believe that the community should
+        be able to vote on issues that affect them. We believe that the community should have a lens
+        through which they can see what issues are affecting them, and what issues are being fixed.
       </>
     ),
   },
@@ -42,10 +49,10 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-      Through geo-location, we can categorize issues by the region they were reported in,
-      then show the government what issues the people of a specific region are facing.
-      The community is also able to vote on issues that affect them, so that the government
-      can prioritize what needs to be fixed.
+      We harness geolocation to pinpoint where issues are happening. We use data to
+      categorize issues according to the political boundaries they fall under. 
+      Having this data allows us to see what issues are happening where, and
+      allows the responsible authorities to prioritize what issues need to be fixed.
       </>
     ),
   },
@@ -55,10 +62,9 @@ const FeatureList = [
     description: (
       <>
         We believe in the power of open data. We believe that the community should have
-        access to the data that affects them. That's why we have plans to make all our data open and
-        accessible to anyone. 
-        <br></br>We also plan to make our code open source so that anyone can
-        contribute to the project
+        access to the data that affects them. Since everyone has a smartphone, pinpointing
+        where issues are happening is easy. CommunityWatch aims to be this lens which
+        the community can use to see what issues are happening around them.
       </>
     ),
   },
