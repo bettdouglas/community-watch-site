@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Welcome to CommunityWatch!',
   
-  tagline: 'Uniting, Empowering & Transforming Communities by Building the Ultimate Database of Community Issues for a Brighter Future!',
+  tagline: 'Bettering Communities by Building the Ultimate Database of Community Issues for a Brighter Future!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

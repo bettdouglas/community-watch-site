@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Building the biggest geospatially enabled database of issues.">
+      description="Building the world's geospatially enabled database of issues.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
