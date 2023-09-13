@@ -11,7 +11,7 @@ const FeatureList = [
         Community Watch is a community-driven project. We are a group of
         volunteers who are passionate about making our communities safer.
         We have a lot of issues which need to be fixed, and we believe that
-        the best way to fix them is to have the community report them.'
+        the best way to fix them is to have the community report them.
         CommunityWatch aims to be a lens through which the government
         can see the issues affecting communities and then priorize what needs to be fixed.
       </>
