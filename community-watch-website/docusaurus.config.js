@@ -63,7 +63,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'https://cdna.artstation.com/p/assets/images/images/032/681/580/medium/kirsten-zirngibl-quarantree.jpg?1607148775',
+      image: 'img/kirsten-zirngibl-quarantree.jpg',
       navbar: {
         title: 'Community Watch',
         logo: {
