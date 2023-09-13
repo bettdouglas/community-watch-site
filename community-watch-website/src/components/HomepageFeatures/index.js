@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Built for the Community',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         Community Watch is a community-driven project. We are a group of
@@ -19,7 +19,7 @@ const FeatureList = [
   },
   {
     title: 'Giving power to the people',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         We believe that by having an open database of issues, we can
@@ -33,7 +33,7 @@ const FeatureList = [
   },
   {
     title: 'Community-driven governance',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    // Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         We believe in democracy. Without tranparency on what issues are happening around you
@@ -46,7 +46,7 @@ const FeatureList = [
   },
   {
     title: 'Using the power of data & geo-location',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    // Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
       We harness geolocation to pinpoint where issues are happening. We use data to
@@ -58,7 +58,7 @@ const FeatureList = [
   },
   {
     title: 'Open Data for the Community',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    // Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         We believe in the power of open data. We believe that the community should have
