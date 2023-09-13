@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Welcome to CommunityWatch!',
   
-  tagline: 'Enabling the community to crowdsource which issues they want fixed.',
+  tagline: 'Enabling communities to crowdsource which issues they want fixed.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -78,11 +78,11 @@ const config = {
             label: 'Who are we?',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
