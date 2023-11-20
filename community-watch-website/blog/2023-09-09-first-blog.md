@@ -1,7 +1,7 @@
 ---
 slug: live-on-playstore
 title: CommunityWatch released on Playstore
-authors: bettdouglas
+authors: [bettdouglas, javiskamau]
 # tags: babysteps
 ---
 
