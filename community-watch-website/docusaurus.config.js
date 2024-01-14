@@ -137,7 +137,7 @@ const config = {
     }),
     plugins: [
       [
-        "docusaurus-plugin-dotenv",
+        "@docusaurus/plugin-docusaurus-plugin-dotenv",
         {
           path: "./.env.local",
           systemvars: true,
