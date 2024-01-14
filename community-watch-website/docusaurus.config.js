@@ -135,15 +135,6 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-    plugins: [
-      [
-        "@docusaurus/plugin-docusaurus-plugin-dotenv",
-        {
-          path: "./.env.local",
-          systemvars: true,
-        },
-      ],
-    ],
 };
 
 module.exports = config;
